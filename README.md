@@ -10,7 +10,8 @@
   <img align="center" alt="Oberdã-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Oberdã-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oberdã-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+ 
+ </div>
   
   ##
   
@@ -21,6 +22,8 @@
   ![Snake animation](https://github.com/DankaFreitas/DankaFreitas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
   
-  
-  
+  <div align="center">
+<img src="https://user-images.githubusercontent.com/112282369/204058066-c9a3d18c-f3d1-4c64-ac05-1d57948dce9d.jpeg" width="400px" />
+  </div>

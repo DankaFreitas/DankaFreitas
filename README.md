@@ -27,3 +27,9 @@
   <div align="center">
 <img src="https://user-images.githubusercontent.com/112282369/204058066-c9a3d18c-f3d1-4c64-ac05-1d57948dce9d.jpeg" width="400px" />
   </div>
+ <div>
+  
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DankaFreitas&theme=default)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DankaFreitas&theme=default)
+ 
+  </div>  

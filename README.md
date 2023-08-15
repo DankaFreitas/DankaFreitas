@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=5010&pause=1000&color=F7723C&multiline=true&width=435&lines=Hi+guys.+I'm+Oberd%C3%A3" alt="Typing SVG" /></a>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=5010&pause=1000&color=F7723C&multiline=true&width=435&lines=Hi+guys.+I'm+Oberd%C3%A3" alt="Typing SVG" /></a></p>
+
 <div align="center">
   <a href="https://github.com/DankaFreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DankaFreitas&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
